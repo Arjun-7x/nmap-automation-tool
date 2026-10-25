@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# keep the sample output, ignore new local scans in the repo root
+/scan_*.json
+/scan_*.csv
+/scan_*.txt

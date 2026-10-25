@@ -1,0 +1,246 @@
+{
+  "target": "192.168.56.102",
+  "time": "20261025_084937",
+  "results": [
+    {
+      "host": "192.168.56.102",
+      "port": "21",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "ftp",
+      "version": "vsftpd 2.3.4"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "22",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "ssh",
+      "version": "OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "23",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "telnet",
+      "version": "Linux telnetd"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "25",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "smtp",
+      "version": "Postfix smtpd"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "53",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "domain",
+      "version": "ISC BIND 9.4.2"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "80",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "http",
+      "version": "Apache httpd 2.2.8 ((Ubuntu) DAV/2)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "111",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "rpcbind",
+      "version": "2 (RPC #100000)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "139",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "netbios-ssn",
+      "version": "Samba smbd 3.X - 4.X (workgroup: WORKGROUP)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "445",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "netbios-ssn",
+      "version": "Samba smbd 3.X - 4.X (workgroup: WORKGROUP)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "512",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "exec",
+      "version": "netkit-rsh rexecd"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "513",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "login",
+      "version": ""
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "514",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "shell",
+      "version": "Netkit rshd"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "1099",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "java-rmi",
+      "version": "GNU Classpath grmiregistry"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "1524",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "bindshell",
+      "version": "Metasploitable root shell"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "2049",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "nfs",
+      "version": "2-4 (RPC #100003)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "2121",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "ftp",
+      "version": "ProFTPD 1.3.1"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "3306",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "mysql",
+      "version": "MySQL 5.0.51a-3ubuntu5"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "3632",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "distccd",
+      "version": "distccd v1 ((GNU) 4.2.4 (Ubuntu 4.2.4-1ubuntu4))"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "5432",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "postgresql",
+      "version": "PostgreSQL DB 8.3.0 - 8.3.7"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "5900",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "vnc",
+      "version": "VNC (protocol 3.3)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "6000",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "X11",
+      "version": "(access denied)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "6667",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "irc",
+      "version": "UnrealIRCd"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "6697",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "irc",
+      "version": "UnrealIRCd"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "8009",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "ajp13",
+      "version": "Apache Jserv (Protocol v1.3)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "8180",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "http",
+      "version": "Apache Tomcat/Coyote JSP engine 1.1"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "8787",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "drb",
+      "version": "Ruby DRb RMI (Ruby 1.8; path /usr/lib/ruby/1.8/drb)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "52512",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "java-rmi",
+      "version": "GNU Classpath grmiregistry"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "53710",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "nlockmgr",
+      "version": "1-4 (RPC #100021)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "54924",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "mountd",
+      "version": "1-3 (RPC #100005)"
+    },
+    {
+      "host": "192.168.56.102",
+      "port": "57099",
+      "protocol": "tcp",
+      "state": "open",
+      "service": "status",
+      "version": "1 (RPC #100024)"
+    }
+  ]
+}
